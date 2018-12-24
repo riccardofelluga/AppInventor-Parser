@@ -11,7 +11,7 @@ The python script take as input the path an AppInventor proect file(`.aia`) and 
 | 1 | screenName.bky | block | 5 | type | component_set_get | ... | id | 27 |
 | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
-The [result.csv](./result.csv) file is a sample extraction done on the December [app of the month](http://ai2.appinventor.mit.edu/?galleryId=5606663420772352).
+The [results.csv](./results.csv) file is a sample extraction done on the December [app of the month](http://ai2.appinventor.mit.edu/?galleryId=5606663420772352).
 
 ## Future work
 
